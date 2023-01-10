@@ -1,0 +1,30 @@
+body {
+  background-color: darkgreen;
+  color: goldenrod;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: goldenrod
+}
+
+#articleOne {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 2px double red;
+  padding: 0 0 0 10px;
+}
+
+#articleTwo {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: 5px ridge yellow;
+  padding: 0 0 0 10px;
+}
+
+#articleThree {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: 3px groove orange;
+  padding: 0 0 0 10px;
+}
